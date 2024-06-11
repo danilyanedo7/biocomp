@@ -1,5 +1,7 @@
 # 🧬 biocomp
 
+Bismillah, I dedicated this tutorial for my parents. Hopefully this tutorial can be useful and can be sadaqah jariyah for my parents. 
+
 ## About
 
 biocomp is a repository for my bioinformatics and computational biology learning journey. This repository includes scripts and data primarily focused on computational biology, covering a wide range of topics such as:
